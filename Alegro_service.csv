@@ -1,0 +1,59 @@
+[Laptop(Store_Goods{name='LENOVO W530 i7-3740QM 8 ГБ 240 ГБ SSD Nvidia K1000M', cost=2199.0, percentage_discount=25}
+){color='black', weight=3.5, screen=Screen{rime_Size='15.6', Resolution='1920 x 1080', Matrix_coating='matte'}
+, ram=Ram{ram_size='8', maximum_amountofRAM='16', ram_type='DDR3'}
+, processor=Processor{cpu_Series='Intel Core i7', cpu_base_clock='2.7', cpu_Cache='6'}
+, hard_drive=Hard_drive{disk_capacity='240', disk_interface='SATA II, SATA III', hard_disk_type='SSD'}
+, graphics_card=Graphics_Card{graphics_card_type='Integrated graphics', graphics_card_memory='NVIDIA Quadro K1000M'}
+} 
+ , Laptop(Store_Goods{name='ACER Aspire 5 Ryzen 5 / 8GB / 512GB SSD / 15.6 / W10', cost=2899.0, percentage_discount=50}
+){color='silver', weight=1.75, screen=Screen{rime_Size='15.6', Resolution='1920 x 1080', Matrix_coating='matte'}
+, ram=Ram{ram_size='8', maximum_amountofRAM='16', ram_type='DDR4'}
+, processor=Processor{cpu_Series='AMD Ryzen 5', cpu_base_clock='2.4', cpu_Cache='6'}
+, hard_drive=Hard_drive{disk_capacity='512', disk_interface='SATAIII', hard_disk_type='SSD'}
+, graphics_card=Graphics_Card{graphics_card_type='Integrated graphics', graphics_card_memory='shared'}
+} 
+ , Laptop(Store_Goods{name='Lenovo laptop | i5 | 15.6 '' | 16GB | 512SSD | Kl.Num | W10', cost=1652.0, percentage_discount=35}
+){color='black', weight=2.45, screen=Screen{rime_Size='15.6', Resolution='1366 x 768', Matrix_coating='matte'}
+, ram=Ram{ram_size='16', maximum_amountofRAM='16', ram_type='DDR3'}
+, processor=Processor{cpu_Series='Intel Core i5', cpu_base_clock='2.5', cpu_Cache='5'}
+, hard_drive=Hard_drive{disk_capacity='512', disk_interface='SATAII', hard_disk_type='SSD'}
+, graphics_card=Graphics_Card{graphics_card_type='Integrated graphics', graphics_card_memory='shared'}
+} 
+ , Laptop(Store_Goods{name='Lenovo IdeaPad 5 i7 12GB 512SSD FHD Touch IPS W10', cost=3399.0, percentage_discount=15}
+){color='blue', weight=2.0, screen=Screen{rime_Size='15.6', Resolution='1920 x 1080', Matrix_coating='matte'}
+, ram=Ram{ram_size='12', maximum_amountofRAM='12', ram_type='DDR4'}
+, processor=Processor{cpu_Series='Intel Core i7', cpu_base_clock='1.3', cpu_Cache='8'}
+, hard_drive=Hard_drive{disk_capacity='512', disk_interface='M.2 PCIe', hard_disk_type='SSD'}
+, graphics_card=Graphics_Card{graphics_card_type='Integrated graphics', graphics_card_memory='shared'}
+} 
+ , Laptop(Store_Goods{name='Laptop Asus DM543MA 15,6'' 256SSD FHD W10', cost=1899.0, percentage_discount=5}
+){color='gray', weight=1.9, screen=Screen{rime_Size='15.6', Resolution='1920 x 1080', Matrix_coating='matte'}
+, ram=Ram{ram_size='4', maximum_amountofRAM='4', ram_type='DDR4'}
+, processor=Processor{cpu_Series='Intel Celeron Dual-Core', cpu_base_clock='1.6', cpu_Cache='6'}
+, hard_drive=Hard_drive{disk_capacity='256', disk_interface='SATA III', hard_disk_type='SSD'}
+, graphics_card=Graphics_Card{graphics_card_type='Integrated graphics', graphics_card_memory='Intel HD Graphics 620'}
+} 
+ , Laptop(Store_Goods{name='Apple MacBook AIR A1465 Core i5 11,6' 512SSD macOS', cost=1927.0, percentage_discount=37}
+){color='black', weight=1.9, screen=Screen{rime_Size='11.6', Resolution='1366 x 768', Matrix_coating='matte'}
+, ram=Ram{ram_size='4', maximum_amountofRAM='8', ram_type='DDR3'}
+, processor=Processor{cpu_Series='Intel Core i5', cpu_base_clock='1.7', cpu_Cache='3'}
+, hard_drive=Hard_drive{disk_capacity='512', disk_interface='SATA II', hard_disk_type='SSD'}
+, graphics_card=Graphics_Card{graphics_card_type='Integrated graphics', graphics_card_memory='Intel HD Graphics 4000'}
+} 
+ , Jacket(Store_Goods{name='3XL - MEN'S TRANSITIONAL JACKET A027', cost=159.99, percentage_discount=15}
+){brand='other (matt)', size='3XL', type='windbreaker', color='navy blue, different color', filling='synthetic', total_length='74', sleeve_length='87', underarm_width='64', model='A027'} 
+, Jacket(Store_Goods{name='XL - MEN'S LEATHER JACKET JP-1169 A', cost=179.99, percentage_discount=10}
+){brand='other (100)', size='XL', type='different', color='black, different color', filling='not applicable', total_length='74', sleeve_length='84', underarm_width='58', model='A02'} 
+, Jacket(Store_Goods{name='XL - MEN'S TRANSITION JACKET TM08A', cost=139.99, percentage_discount=17}
+){brand='other (100)', size='XL', type='air gun', color='yellow, a different color', filling='synthetic', total_length='74', sleeve_length='82', underarm_width='64', model='TM08A'} 
+, Jacket(Store_Goods{name='M-MEN'S LEATHER JACKET 14G07 SLIM-FIT THIN02', cost=99.99, percentage_discount=14}
+){brand='other (matt)', size='M', type='different', color='black, different color', filling='not applicable', total_length='65', sleeve_length='79', underarm_width='53', model='THIN02'} 
+, Shampoos(Store_Goods{name='Loreal Inforcer Brittle Brittle Thin Shampoo 500', cost=45.9, percentage_discount=5}
+){condition='New', brand='L'Oréal Expert', hair_color='for all hair colors', hair_type='dry and damaged', action='universal care', packaging_capacity='500', packaging='pump bottle', size='Full-size product'} 
+, Shampoos(Store_Goods{name='STAPIZ Sleek Line Repair Set XXL Shampoo Mask', cost=40.49, percentage_discount=17}
+){condition='New', brand='Stapiz', hair_color='for all hair colors', hair_type='dry and damaged', action='regeneration and hydration', packaging_capacity='450', packaging='bottle', size='Full-size product'} 
+, Shampoos(Store_Goods{name='NO YELLOW FANOLA BLOND HAIR SHAMPOO 1000ML', cost=38.0, percentage_discount=23}
+){condition='New', brand='Fanola', hair_color='for blondes', hair_type='dyed', action='color protection', packaging_capacity='1000', packaging='bottle', size='Full-size product'} 
+, Shampoos(Store_Goods{name='ANWEN Shampoo Wake It Up enzymatic coffee 200ml', cost=23.74, percentage_discount=19}
+){condition='New', brand='Anwen', hair_color='for all hair colors', hair_type='for all hair types', action='cleansing', packaging_capacity='200', packaging='pump bottle', size='Full-size product'} 
+]
